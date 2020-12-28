@@ -17,4 +17,10 @@ Here are some ideas to get you started:
 ![info](https://github-readme-stats.vercel.app/api?username=seyrenus&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 <!--START_SECTION:waka-->
+```text
+Other        12 mins         ██████████░░░░░░░░░░░░░░░   40.47 % 
+YAML         12 mins         █████████▓░░░░░░░░░░░░░░░   39.16 % 
+Kotlin       5 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.91 % 
+Groovy       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+```
 <!--END_SECTION:waka-->

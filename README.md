@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Kotlin       19 mins         ██████████▒░░░░░░░░░░░░░░   41.87 % 
-YAML         12 mins         ███████░░░░░░░░░░░░░░░░░░   28.02 % 
-Other        12 mins         ███████░░░░░░░░░░░░░░░░░░   27.66 % 
-Groovy       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+YAML         43 mins         █████████████▒░░░░░░░░░░░   53.82 % 
+Kotlin       23 mins         ███████▒░░░░░░░░░░░░░░░░░   29.00 % 
+Other        12 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Groovy       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 ```
 <!--END_SECTION:waka-->

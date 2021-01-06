@@ -18,10 +18,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-YAML     58 mins         █████████████▓░░░░░░░░░░░   54.73 % 
-Kotlin   23 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.84 % 
-Other    12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Rust     11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-Groovy   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Rust         1 hr 37 mins    █████████████████████▒░░░   84.70 % 
+YAML         15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+TOML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 ```
 <!--END_SECTION:waka-->
